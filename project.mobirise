@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sling Site",
-    "currentPage": "page7.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -887,7 +887,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-2000x13332.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-2000x13334.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1298,7 +1298,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-2000x13332.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-2000x13334.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1742,7 +1742,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-2000x13332.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-2000x13334.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
