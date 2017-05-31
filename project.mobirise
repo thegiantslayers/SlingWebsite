@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sling Site",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -104,7 +104,7 @@
             }
           },
           "title": "OUR BUSINESS IS SLAYING GIANTS.",
-          "text": "Sling is a paradigmn shifting web design and development company that specializes in using simple, affordable, yet elegant and effective tools to slay the giant challenges small businesses face,&nbsp;in the same way, David slayed Goliath. <br><br>From logo to web design, we make everything you need to be successful in the \"land of the giants\", also known as the scary, world wide web. We are committed to meeting your design and development needs with excellence to help you slay the the giants in your business and engineer new realities.&nbsp;",
+          "text": "Sling is a paradigmn shifting web design and development company that specializes in using simple, affordable, yet elegant and effective tools to slay the giant challenges small businesses face,&nbsp;in the same way, David slayed Goliath. <br><br>From logos to web design, we make everything you need to be successful in the \"land of the giants\", also known as the scary, world wide web. We are committed to meeting your design and development needs with excellence to help you slay the the giants in your business and engineer new realities.&nbsp;",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#msg-box2-c\" data-toolbar=\"-mbrBtnMove\">SIGN UP FOR A CONSULTATION SESSION</a>"
         },
         {
@@ -887,7 +887,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-2000x13331.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-2000x13332.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1298,7 +1298,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-2000x13331.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-2000x13332.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1616,7 +1616,7 @@
           },
           "title3": "Custom Landing Page Website",
           "subtitle3": "Popular Option for Medium- Substantial Budget&nbsp;",
-          "caption3": "This option has all the features of the basic landing page option and also the added benefits of custom made web functions available, such as custom web functions and shopping cart, among other options. &nbsp;This option has intermediate turn around time.<br><br><br><br><br>$$ - $$$<br><br><b style=\"line-height: 1.5;\">$725 - $1000</b><br>",
+          "caption3": "This option has all the features of the basic landing page option and also has the added benefits of custom made web functions available, such as a shopping cart, among other options. &nbsp;This option has an intermediate turn around time.<br><br><br><br><br>$$ - $$$<br><br><b style=\"line-height: 1.5;\">$725 - $1000</b><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -1742,7 +1742,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-2000x13331.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-2000x13332.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
