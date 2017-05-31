@@ -7,6 +7,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -425,19 +426,17 @@ h6,
   font-family: 'Raleway', sans-serif;
   font-size: 14px;
 }
-#msg-box8-7 .mbr-section-title,
-#msg-box8-7 p {
-  color: #fff;
+#msg-box3-2b .mbr-section-title,
+#msg-box3-2b p {
+  color: #000;
 }
-#msg-box8-7 .mbr-section-title {
-  color: #fff300;
+#msg-box3-2b .mbr-section-title {
+  font-family: 'Montserrat', sans-serif;
+  color: #fac51c;
 }
-#msg-box8-8 .mbr-section-title,
-#msg-box8-8 p {
-  color: #fff;
-}
-#msg-box8-8 .mbr-section-title {
-  color: #b12905;
+#msg-box3-2d .mbr-section-title,
+#msg-box3-2d p {
+  color: #000;
 }
 #ext_menu-3 .hide-buttons .nav-btn {
   display: none !important;
@@ -505,11 +504,11 @@ h6,
   color: #000000;
   text-align: right;
 }
-#msg-box8-9 .mbr-section-title,
-#msg-box8-9 p {
-  color: #fff;
+#msg-box3-2e .mbr-section-title,
+#msg-box3-2e p {
+  color: #000;
 }
-#msg-box8-9 .mbr-section-title {
+#msg-box3-2e .mbr-section-title {
   color: #fff300;
 }
 #msg-box2-c .mbr-section-title {
@@ -817,26 +816,32 @@ h6,
   color: #000000;
   text-align: right;
 }
-#msg-box2-22 .mbr-section-title {
+#msg-box2-2g .mbr-section-title {
   color: #fff;
 }
-#msg-box2-22 .mbr-section-subtitle {
+#msg-box2-2g .mbr-section-subtitle {
   color: #a0a0a0;
 }
-#msg-box2-23 .mbr-section-title {
+#msg-box2-2h .mbr-section-title {
   color: #fff;
 }
-#msg-box2-23 .mbr-section-subtitle {
+#msg-box2-2h .mbr-section-subtitle {
   color: #a0a0a0;
 }
-#features1-24 .striped .mbr-cards-col:nth-child(2n+1) {
+#msg-box2-2i .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-2i .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#features1-2j .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
-#features1-24 .mbr-cards-col:nth-child(odd) .card-title {
-  color: #b8312f;
+#features1-2j .mbr-cards-col:nth-child(odd) .card-text {
+  color: #ffffff;
 }
-#features1-24 .mbr-cards-col:nth-child(odd) .card-text {
-  font-size: 15px;
+#features1-2j .mbr-cards-col:nth-child(odd) .card-title {
+  color: #b8312f;
 }
 #msg-box3-25 .mbr-section-title,
 #msg-box3-25 p {
