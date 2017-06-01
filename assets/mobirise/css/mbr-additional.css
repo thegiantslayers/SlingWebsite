@@ -543,6 +543,7 @@ h6,
 }
 
 
+
 #ext_menu-1m .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -628,6 +629,10 @@ h6,
 }
 #form1-2u SMALL {
   color: #fff300;
+  font-size: 32px;
+  font-family: 'Raleway', sans-serif;
+}
+#form1-2u .btn {
   font-size: 32px;
   font-family: 'Raleway', sans-serif;
 }
@@ -736,6 +741,7 @@ h6,
 #form1-2t .btn {
   font-size: 32px;
 }
+
 
 
 #ext_menu-20 .hide-buttons .nav-btn {
@@ -849,4 +855,8 @@ h6,
   color: #fff300;
   font-family: 'Raleway', sans-serif;
   font-size: 32px;
+}
+#form1-2v .btn {
+  font-size: 32px;
+  font-family: 'Raleway', sans-serif;
 }
