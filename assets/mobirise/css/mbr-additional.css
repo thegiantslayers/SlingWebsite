@@ -543,6 +543,7 @@ h6,
 }
 
 
+
 #ext_menu-1m .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -634,6 +635,17 @@ h6,
 #header3-2a SMALL {
   color: #fff300;
 }
+#form1-2r .form-control-label {
+  color: #fff300;
+}
+#form1-2r SMALL {
+  font-size: 32px;
+  font-family: 'Raleway', sans-serif;
+  color: #fff300;
+}
+#form1-2r .btn {
+  font-size: 32px;
+}
 
 
 #ext_menu-1t .hide-buttons .nav-btn {
@@ -698,15 +710,15 @@ h6,
 #ext_menu-1t .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#form1-2n .form-control-label {
+#form1-2q .form-control-label {
   color: #fff300;
 }
-#form1-2n SMALL {
+#form1-2q SMALL {
   font-size: 32px;
   font-family: 'Raleway', sans-serif;
   color: #fff300;
 }
-#form1-2n .btn {
+#form1-2q .btn {
   font-size: 32px;
 }
 #footer1-1u P {
@@ -739,6 +751,7 @@ h6,
 #header3-29 SMALL {
   color: #fff300;
 }
+
 
 
 #ext_menu-20 .hide-buttons .nav-btn {
@@ -848,6 +861,17 @@ h6,
 #msg-box3-25 .mbr-section-title,
 #msg-box3-25 p {
   color: #000;
+}
+#form1-2s .form-control-label {
+  color: #fff300;
+}
+#form1-2s SMALL {
+  font-size: 32px;
+  font-family: 'Raleway', sans-serif;
+  color: #fff300;
+}
+#form1-2s .btn {
+  font-size: 32px;
 }
 #header3-26 .mbr-section-title,
 #header3-26 .mbr-section-subtitle {
