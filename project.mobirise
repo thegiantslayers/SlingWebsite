@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sling Site",
-    "currentPage": "page7.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1152,7 +1152,7 @@
             }
           },
           "title": "<br><br>The Problem Discovery",
-          "text": "Sling started over a cup of coffee when a group of engineering students were having coffee at their favorite cafe. A few sips of esspresso into their conversation, they realized the independent cafe didn't have a website or their favorite Thai restaurant. How would the rest of the world discover the hand crafted apple cider, espresso drink, with hand made whipped  or pad Thai noodles with egg plant? Would the world come to an end?  <br><br>No worries, some coffee and Thai food obsessed engineering students were to the rescue. After discussing the issue further, the engineers realized that many of the local, small businesses they regularly frequented did not have a web presence. <br><br>With further market research and customer interviews, they discovered the major barriers for the small businesses were cost, lack of understanding of web development tools and limited time.<br><br>From this converation, over a cup of coffee, Sling came to be. Sling aims offer simple, affordable, yet elegant and effective technology solutions for small businesses to conquer the web giant.<br>",
+          "text": "Sling started over a cup of coffee when a group of engineering students were having coffee at their favorite cafe. A few sips of esspresso into their conversation, they realized the independent cafe didn't have a website or their favorite Thai restaurant. How would the rest of the world discover the hand crafted apple cider, espresso drink, with hand made whipped cream or pad Thai noodles with egg plant? Would the world come to an end?  <br><br>No worries, some coffee and Thai food obsessed engineering students were to the rescue. After discussing the issue further, the engineers realized that many of the local, small businesses they regularly frequented did not have a web presence. <br><br>With further market research and customer interviews, they discovered the major barriers for the small businesses were cost, lack of understanding of web development tools and limited time.<br><br>From this converation, over a cup of coffee, Sling came to be. Sling aims offer simple, affordable, yet elegant and effective technology solutions for small businesses to conquer the web giant.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page6.html#msg-box5-1x\" data-toolbar=\"-mbrBtnMove\">WHY THE NAME \"SLING\"?&nbsp;</a> "
         },
         {
@@ -1585,6 +1585,17 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#b8312f"
+            }
+          },
           "_anchor": "features1-2j",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -1680,18 +1691,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "color": "#ffffff"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "color": "#b8312f"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "msg-box8",
