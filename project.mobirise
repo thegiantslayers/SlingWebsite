@@ -405,7 +405,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-2000x1333.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1410.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
