@@ -947,7 +947,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x25000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x25001.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1115,7 +1115,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x25000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x25001.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1501,72 +1501,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#fff300"
-            },
-            "SMALL": {
-              "font-size": "32px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#fff300"
-            },
-            ".btn": {
-              "font-size": "32px"
-            }
-          },
-          "_anchor": "form1-2p",
-          "_params": {
-            "labelsColor": "#fff300",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-2000x1333-2.png",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#b8312f",
-            "showTitle": true,
-            "showSubTitle": true
-          },
-          "title": "CONTACT FORM",
-          "subtitle": "Come slay some giants with us!&nbsp;",
-          "form": {
-            "action": "slingtechconsulting@gmail.com",
-            "alerts": {
-              "success": "anks for filling out the form! Get ready to slay some giants! "
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": ""
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">LET'S SLAY!&nbsp;</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "footer1",
           "_styles": {
             "P": {
@@ -1877,7 +1811,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x25000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x25001.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,

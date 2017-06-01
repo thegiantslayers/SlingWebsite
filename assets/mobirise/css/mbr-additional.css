@@ -753,7 +753,6 @@ h6,
 }
 
 
-
 #ext_menu-20 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -815,17 +814,6 @@ h6,
 #ext_menu-20 .link[aria-expanded="true"],
 #ext_menu-20 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#form1-2p .form-control-label {
-  color: #fff300;
-}
-#form1-2p SMALL {
-  font-size: 32px;
-  font-family: 'Raleway', sans-serif;
-  color: #fff300;
-}
-#form1-2p .btn {
-  font-size: 32px;
 }
 #footer1-21 P {
   color: #000000;
