@@ -517,6 +517,13 @@ h6,
 #msg-box2-c .mbr-section-subtitle {
   color: #a0a0a0;
 }
+#header3-28 .mbr-section-title,
+#header3-28 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-28 SMALL {
+  color: #fff300;
+}
 #form1-2l .form-control-label {
   color: #fff300;
 }
@@ -527,13 +534,6 @@ h6,
 }
 #form1-2l .btn {
   font-size: 32px;
-}
-#header3-28 .mbr-section-title,
-#header3-28 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-28 SMALL {
-  color: #fff300;
 }
 #msg-box2-b .mbr-section-title {
   color: #fff;

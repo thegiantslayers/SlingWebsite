@@ -380,6 +380,29 @@
           "text": ""
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#fff300"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-28",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#b8312f",
+            "showMeta": true
+          },
+          "title": "**$50 consultation fee for the intial session.**",
+          "meta": "This fee will be added towards payment for the chosen website package, if Sling services are chosen."
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -444,29 +467,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">LET'S SLAY!&nbsp;</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "SMALL": {
-              "color": "#fff300"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-28",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#b8312f",
-            "showMeta": true
-          },
-          "title": "**$50 consultation fee for the intial session.**",
-          "meta": "This fee will be added towards payment for the chosen website package, if Sling services are chosen."
         },
         {
           "_styles": {
