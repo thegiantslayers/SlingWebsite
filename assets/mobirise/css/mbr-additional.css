@@ -433,10 +433,14 @@ h6,
 #msg-box3-2b .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
   color: #fac51c;
+  font-size: 46px;
 }
 #msg-box3-2d .mbr-section-title,
 #msg-box3-2d p {
   color: #000;
+}
+#msg-box3-2d .mbr-section-title {
+  font-size: 46px;
 }
 #ext_menu-3 .hide-buttons .nav-btn {
   display: none !important;
@@ -510,6 +514,7 @@ h6,
 }
 #msg-box3-2e .mbr-section-title {
   color: #fff300;
+  font-size: 46px;
 }
 #msg-box2-c .mbr-section-title {
   color: #fff;
@@ -523,6 +528,9 @@ h6,
 }
 #header3-28 SMALL {
   color: #fff300;
+}
+#header3-28 H3 {
+  font-size: 36px;
 }
 #form1-2l .form-control-label {
   color: #fff300;
@@ -617,12 +625,24 @@ h6,
 #msg-box8-1o .mbr-section-title {
   color: #b12905;
 }
+#msg-box5-1p H3 {
+  font-size: 36px;
+}
+#msg-box5-1q H3 {
+  font-size: 36px;
+}
+#msg-box5-1r H3 {
+  font-size: 36px;
+}
 #header3-2a .mbr-section-title,
 #header3-2a .mbr-section-subtitle {
   text-align: center;
 }
 #header3-2a SMALL {
   color: #fff300;
+}
+#header3-2a H3 {
+  font-size: 36px;
 }
 #form1-2u .form-control-label {
   color: #fff300;
@@ -729,6 +749,9 @@ h6,
 }
 #header3-29 SMALL {
   color: #fff300;
+}
+#header3-29 H3 {
+  font-size: 36px;
 }
 #form1-2t .form-control-label {
   color: #fff300;
@@ -841,12 +864,18 @@ h6,
 #msg-box3-25 p {
   color: #000;
 }
+#msg-box3-25 .mbr-section-title {
+  font-size: 36px;
+}
 #header3-26 .mbr-section-title,
 #header3-26 .mbr-section-subtitle {
   text-align: center;
 }
 #header3-26 SMALL {
   color: #fff300;
+}
+#header3-26 H3 {
+  font-size: 36px;
 }
 #form1-2v .form-control-label {
   color: #fff300;

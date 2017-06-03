@@ -116,7 +116,8 @@
             ".mbr-section-title": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "color": "#fac51c"
+              "color": "#fac51c",
+              "font-size": "46px"
             }
           },
           "_tags": [
@@ -152,6 +153,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
             }
           },
           "_tags": [
@@ -308,7 +312,8 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "color": "#fff300"
+              "color": "#fff300",
+              "font-size": "46px"
             }
           },
           "_tags": [
@@ -386,6 +391,9 @@
             },
             "SMALL": {
               "color": "#fff300"
+            },
+            "H3": {
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -724,7 +732,12 @@
           },
           "title": "Divine Connections",
           "text": "A non-profit organization committed to fusing faith and business.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://divineconnections.global/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://divineconnections.global/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_tags": [
@@ -777,7 +790,12 @@
           },
           "title": "Nopneu Website",
           "text": "A social enterprise, biotech company dedicated to empowering cargivers to say no to pneumonia .",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.nopneu.co/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.nopneu.co/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_tags": [
@@ -830,7 +848,12 @@
           },
           "title": "Alpha Phi Kappa Anniversary Logo &nbsp;",
           "text": "Logo for Apparel and event, print materials for chapter of Alpha Phi Kappa fraternity.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_styles": {
@@ -839,6 +862,9 @@
             },
             "SMALL": {
               "color": "#fff300"
+            },
+            "H3": {
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -1148,7 +1174,7 @@
             }
           },
           "title": "<br><br>The Problem Discovery",
-          "text": "Sling started over a cup of coffee when a group of engineering students were having coffee at their favorite cafe. A few sips of esspresso into their conversation, they realized the independent cafe didn't have a website or their favorite Thai restaurant. How would the rest of the world discover the hand crafted apple cider, espresso drink, with hand made whipped cream or pad Thai noodles with egg plant? Would the world come to an end?  <br><br>No worries, some coffee and Thai food obsessed engineering students were to the rescue. After discussing the issue further, the engineers realized that many of the local, small businesses they regularly frequented did not have a web presence. <br><br>With further market research and customer interviews, they discovered the major barriers for the small businesses were cost, lack of understanding of web development tools and limited time.<br><br>From this converation, over a cup of coffee, Sling came to be. Sling aims offer simple, affordable, yet elegant and effective technology solutions for small businesses to conquer the web giant.<br>",
+          "text": "Sling started over a cup of coffee when a group of engineers were having coffee at their favorite cafe. A few sips of esspresso into their conversation, they realized the independent cafe didn't have a website or their favorite Thai restaurant. How would the rest of the world discover the hand crafted apple cider, espresso drink, with hand made whipped cream or pad Thai noodles with egg plant? Would the world come to an end?  <br><br>No worries, some coffee and Thai food obsessed engineering students were to the rescue. After discussing the issue further, the engineers realized that many of the local, small businesses they regularly frequented did not have a web presence. <br><br>With further market research and customer interviews, they discovered the major barriers for the small businesses were cost, lack of understanding of web development tools and limited time.<br><br>From this converation, over a cup of coffee, Sling came to be. Sling aims offer simple, affordable, yet elegant and effective technology solutions for small businesses to conquer the web giant.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page6.html#msg-box5-1x\" data-toolbar=\"-mbrBtnMove\">WHY THE NAME \"SLING\"?&nbsp;</a> "
         },
         {
@@ -1201,7 +1227,7 @@
             }
           },
           "title": "<br><br>Why \"Sling\"?",
-          "text": "In addition to a conversation fueled by Thai food and maybe a little, too much coffee, Sling was inspired by the timeless story of David and Goliath. At some point in life, we have all felt like David, the underdog of the story, facing seemingly insurmountable odds of life, especially as small business owners.  <br><br>In the story of David and Goliath, David is often praised as the hero when he is victorious against his super sized enemy Goliath.  However, adaquate attention is not given to the tools that allow David to have such a historic victory- a sling and five rocks. It's the beauty of these simple, low cost, yet elegant and effective technology that inspires the name, \"Sling\". <br><br>Our goal is not for our company to be the hero in the narrative of your company's story - it's for us to partner with you and provide the technology that positions you to be the hero in your own story.  We want you to be the giant slayer. Let's slay!&nbsp;",
+          "text": "In addition to a conversation fueled by Thai food and maybe a little, too much coffee, Sling was inspired by the timeless story of David and Goliath. At some point in life, we have all felt like David, the underdog of the story, facing the seemingly insurmountable odds of life, especially as small business owners.  <br><br>In the story of David and Goliath, David is often praised as the hero when he is victorious against his super sized enemy Goliath.  However, adaquate attention is not given to the tools that allow David to have such a historic victory- a sling and five rocks. It's the beauty of these simple, low cost, yet elegant and effective technology that inspires the name, \"Sling\". <br><br>Our goal is not for our company to be the hero in the narrative of your company's story - it's for us to partner with you and provide the technology that positions you to be the hero in your own story.  We want you to be the giant slayer. Let's slay!&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page6.html#msg-box5-1w\" data-toolbar=\"-mbrBtnMove\">THE SLING EPHIPHANY</a>"
         },
         {
@@ -1249,6 +1275,9 @@
             },
             "SMALL": {
               "color": "#fff300"
+            },
+            "H3": {
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -1635,7 +1664,7 @@
           },
           "title2": "Multi- Page Website from Existing Sling Template<br><br>",
           "subtitle2": "<br><br>",
-          "caption2": "This is a great option for small business owners with some traction in their entrepreneurial journey and have multiple products/services to offer, such as a product catalog, blog, online resources or community for customers.  This option also has a quick turn around time.<br><br><br><b style=\"font-size: 1rem; line-height: 1.5;\"><br></b><br><b style=\"font-size: 1rem; line-height: 1.5;\">$825</b><br>",
+          "caption2": "This is a great option for small business owners with some traction in their entrepreneurial journey and have multiple products/services to offer, such as a product catalog, blog, online resources or community for customers.  This option also has a quick turn around time.<br><br><br><b style=\"font-size: 1rem; line-height: 1.5;\"><br></b><br><br><b style=\"font-size: 1rem; line-height: 1.5;\">$825</b><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -1647,7 +1676,7 @@
           },
           "title3": "Custom Landing Page Website<br><br><br><br>",
           "subtitle3": "",
-          "caption3": "This option has all the features of the basic landing page option and also has the added benefits of custom made web functions available, such as a shopping cart, among other options.  This option has an intermediate turn around time.<br><br><br><br><br><br><b><br></b><b>$1,200</b>",
+          "caption3": "This option has all the features of the basic landing page option and also has the added benefits of custom made web functions available, such as a shopping cart, among other options.  This option has an intermediate turn around time.<br><br><br><br><br><br><b><br></b><b>$1,200 +</b><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -1691,6 +1720,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -1728,6 +1760,9 @@
             },
             "SMALL": {
               "color": "#fff300"
+            },
+            "H3": {
+              "font-size": "36px"
             }
           },
           "_tags": [
