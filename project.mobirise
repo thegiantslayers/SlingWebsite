@@ -85,7 +85,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sling-logo-new-phrase-1400x1400.png",
+              "src": "@PROJECT_PATH@/assets/images/sling-logo-with-phrase-3-1400x1400.png",
               "link": "#top",
               "alt": "",
               "title": "",
@@ -263,7 +263,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sling-logo-new-phrase-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/sling-logo-with-phrase-3-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "#top",
