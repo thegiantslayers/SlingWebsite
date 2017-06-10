@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sling Site",
-    "currentPage": "index.html",
+    "currentPage": "RecentWork.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1206,7 +1206,7 @@
           },
           "title": "How to Hack Algebra E-Book Landing Page<br><br>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://howtohackalgebra.site\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://thegiantslayers.github.io/HowtoHackAlgebra/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
         },
         {
           "_tags": [
