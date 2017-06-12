@@ -452,12 +452,12 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "twitter",
-              "family": "socicon",
+              "name": "facebook",
+              "family": "et-line",
               "active": true,
-              "link": "https://twitter.com/Sling_Websites",
+              "link": "https://www.facebook.com/SlingWebsites/?fref=ts",
               "size": 0,
-              "color": "#fac51c",
+              "color": "#b8312f",
               "newWindow": true
             }
           },
@@ -469,12 +469,12 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "facebook",
-              "family": "et-line",
+              "name": "twitter",
+              "family": "socicon",
               "active": true,
-              "link": "https://www.facebook.com/SlingWebsites/?fref=ts",
+              "link": "https://twitter.com/Sling_Websites",
               "size": 0,
-              "color": "#b8312f",
+              "color": "#fac51c",
               "newWindow": true
             }
           },
