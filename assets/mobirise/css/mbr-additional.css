@@ -464,11 +464,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #ext_menu-3 .link {
-  font-size: 1.1rem;
+  font-size: 0.95rem;
 }
 #ext_menu-3 .dropdown-item,
 #ext_menu-3 .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.029rem;
 }
 #ext_menu-3 .link:hover,
 #ext_menu-3 .dropdown-item:hover,
