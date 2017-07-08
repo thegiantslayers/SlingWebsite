@@ -689,11 +689,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #ext_menu-1m .link {
-  font-size: 1.1rem;
+  font-size: 0.95rem;
 }
 #ext_menu-1m .dropdown-item,
 #ext_menu-1m .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.029rem;
 }
 #ext_menu-1m .link:hover,
 #ext_menu-1m .dropdown-item:hover,

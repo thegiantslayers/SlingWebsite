@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sling Site",
-    "currentPage": "index.html",
+    "currentPage": "RecentWork.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1119,10 +1119,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1367,7 +1367,7 @@
           },
           "title": "How to Hack Algebra E-Book Landing Page<br><br>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://thegiantslayers.github.io/HowtoHackAlgebra/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://howtohackalgebra.site\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
         },
         {
           "_tags": [
