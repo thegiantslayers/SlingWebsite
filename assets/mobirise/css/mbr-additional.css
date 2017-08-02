@@ -796,11 +796,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #ext_menu-20 .link {
-  font-size: 1.35rem;
+  font-size: 0.95rem;
 }
 #ext_menu-20 .dropdown-item,
 #ext_menu-20 .nav-dropdown-sm .link {
-  font-size: 1.462rem;
+  font-size: 1.029rem;
 }
 #ext_menu-20 .link:hover,
 #ext_menu-20 .dropdown-item:hover,
@@ -889,6 +889,13 @@ h6,
 }
 #pricing-table2-2z .mbr-price-figure {
   color: #000000;
+}
+#msg-box3-39 .mbr-section-title,
+#msg-box3-39 p {
+  color: #000;
+}
+#msg-box3-39 .mbr-section-title {
+  color: #b8312f;
 }
 #msg-box3-25 .mbr-section-title,
 #msg-box3-25 p {
